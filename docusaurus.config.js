@@ -13,8 +13,8 @@ const config = {
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
-  organizationName: 'facebook', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
+  organizationName: 'casperarmy', // Usually your GitHub org/user name.
+  projectName: 'casperarmy-docs', // Usually your repo name.
 
   presets: [
     [
@@ -80,11 +80,11 @@ const config = {
             items: [
               {
                 label: 'Discord',
-                href: 'https://discordapp.com/invite/docusaurus',
+                href: 'https://discordapp.com/invite/casperarmy',
               },
               {
                 label: 'Twitter',
-                href: 'https://twitter.com/docusaurus',
+                href: 'https://twitter.com/casperarmyorg',
               },
             ],
           },
@@ -92,8 +92,8 @@ const config = {
             title: 'More',
             items: [
               {
-                label: 'Blog',
-                to: '/blog',
+                label: 'Homepage',
+                href: 'https://casperarmy.org/'
               },
               {
                 label: 'GitHub',
