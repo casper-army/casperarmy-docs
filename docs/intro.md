@@ -46,3 +46,5 @@ The `npm run start` command builds your website locally and serves it through a 
 
 Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes.
 Test zmiany treści - by Kamil
+
+test zmiany czy sie zawiesi :P 22:27 - 23.05.2022
