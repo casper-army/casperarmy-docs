@@ -83,6 +83,10 @@ const config = {
                 href: 'https://discordapp.com/invite/casperarmy',
               },
               {
+                label: 'Telegram',
+                href: 'https://t.me/casperarmyofficial',
+              },
+              {
                 label: 'Twitter',
                 href: 'https://twitter.com/casperarmyorg',
               },
