@@ -27,3 +27,17 @@ sidebar_position: 1
 ## 8.8 CasperArmy NFT litepaper
 <a href="https://litepaper.casperarmy.io">https://litepaper.casperarmy.io</a>
 
+## 8.9 LinkedIn
+<a href="https://www.linkedin.com/company/casperarmy">https://www.linkedin.com/company/casperarmy</a>
+
+## 8.10 Reddit
+<a href="https://www.reddit.com/user/casperarmy/">https://www.reddit.com/user/casperarmy/</a>
+
+## 8.11 Youtube
+<a href="https://www.youtube.com/c/CasperArmyorg">https://www.youtube.com/c/CasperArmyorg</a>
+
+## 8.12 GitHub
+<a href="https://github.com/casper-army">https://github.com/casper-army</a>
+
+
+
