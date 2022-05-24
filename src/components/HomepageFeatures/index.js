@@ -26,7 +26,7 @@ const FeatureList = [
     Svg: require('@site/static/img/discord_logo.svg').default,
     description: (
       <>
-        <a href="https://twitter.com/casperarmyorg">Join the community and be closer to the team. Ask anything and share information.</a>
+        <a href="https://discord.gg/sZQVdRCyqx">Join the community and be closer to the team. Ask anything and share information.</a>
       </>
     ),
   },
