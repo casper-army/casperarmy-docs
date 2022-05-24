@@ -27,7 +27,7 @@ sidebar_position: 1
 ## 8.8 CasperArmyNFT
 <a href="https://casperarmy.io">https://casperarmy.io</a>
 
-## 8.9 CasperArmy NFT litepaper
+## 8.9 CasperArmyNFT litepaper
 <a href="https://litepaper.casperarmy.io">https://litepaper.casperarmy.io</a>
 
 ## 8.10 LinkedIn
