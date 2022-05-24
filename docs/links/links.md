@@ -18,3 +18,5 @@ sidebar_position: 1
 ## 8.7 CasperArmyNFT
 
 ## 8.8 CasperArmy NFT litepaper
+<a href="https://litepaper.casperarmy.io">https://litepaper.casperarmy.io</a>
+
