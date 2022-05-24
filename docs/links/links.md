@@ -18,25 +18,28 @@ sidebar_position: 1
 ## 8.5 Medium
 <a href="https://medium.com/@CasperArmy">https://medium.com/@CasperArmy</a>
 
-## 8.6 CasperArmy platform
+## 8.6 CasperArmy organization
 <a href="https://casperarmy.org">https://casperarmy.org</a>
 
-## 8.7 CasperArmyNFT
+## 8.7 CasperArmy platform
+<a href="https://casper.army">https://casper.army</a>
+
+## 8.8 CasperArmyNFT
 <a href="https://casperarmy.io">https://casperarmy.io</a>
 
-## 8.8 CasperArmy NFT litepaper
+## 8.9 CasperArmy NFT litepaper
 <a href="https://litepaper.casperarmy.io">https://litepaper.casperarmy.io</a>
 
-## 8.9 LinkedIn
+## 8.10 LinkedIn
 <a href="https://www.linkedin.com/company/casperarmy">https://www.linkedin.com/company/casperarmy</a>
 
-## 8.10 Reddit
+## 8.11 Reddit
 <a href="https://www.reddit.com/user/casperarmy/">https://www.reddit.com/user/casperarmy/</a>
 
-## 8.11 Youtube
+## 8.12 Youtube
 <a href="https://www.youtube.com/c/CasperArmyorg">https://www.youtube.com/c/CasperArmyorg</a>
 
-## 8.12 GitHub
+## 8.13 GitHub
 <a href="https://github.com/casper-army">https://github.com/casper-army</a>
 
 
