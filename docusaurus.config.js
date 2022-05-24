@@ -46,7 +46,7 @@ const config = {
       navbar: {
         title: 'CasperArmy',
         logo: {
-          alt: 'My Site Logo',
+          alt: 'CasperArmy Logo',
           src: 'img/logo.svg',
         },
         items: [
