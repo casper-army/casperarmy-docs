@@ -5,7 +5,7 @@ import styles from './styles.module.css';
 const FeatureList = [
   {
     title: 'Documentation',
-    Svg: require('@site/static/img/logo.svg').default,
+    Svg: require('@site/static/img/casperarmy_logo_white.svg').default,
     description: (
       <>        
         <a href="https://docs2.casperarmy.org/docs/intro">Detailed information about how CasperArmy and its products work.</a>
