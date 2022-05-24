@@ -8,7 +8,7 @@ const FeatureList = [
     Svg: require('@site/static/img/casperarmy_logo_white.svg').default,
     description: (
       <>        
-        <a href="https://docs2.casperarmy.org/docs/intro">Detailed information about how CasperArmy and its products work.</a>
+        <a href="https://docs.casperarmy.org/docs/intro">Detailed information about how CasperArmy and its products work.</a>
       </>
     ),
   },
