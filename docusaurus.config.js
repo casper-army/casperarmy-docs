@@ -47,7 +47,7 @@ const config = {
         title: 'CasperArmy',
         logo: {
           alt: 'CasperArmy Logo',
-          src: 'img/casperarmy_logo.png',
+          src: 'img/logo.svg',
         },
         items: [
           {
