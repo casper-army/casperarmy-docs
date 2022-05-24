@@ -7,10 +7,8 @@ const FeatureList = [
     title: 'Documentation',
     Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
     description: (
-      <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
-        <a href="https://docs2.casperarmy.org/docs/intro">Enter to documentation</a>
+      <>        
+        <a href="https://docs2.casperarmy.org/docs/intro">Detailed information about how CasperArmy and its products work.</a>
       </>
     ),
   },
@@ -19,8 +17,7 @@ const FeatureList = [
     Svg: require('@site/static/img/twitter_logo.svg').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        <a href="https://twitter.com/casperarmyorg">Keep up to date with the latest news.</a>
       </>
     ),
   },
@@ -29,8 +26,7 @@ const FeatureList = [
     Svg: require('@site/static/img/discord_logo.svg').default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        <a href="https://twitter.com/casperarmyorg">Join the community and be closer to the team. Ask anything and share information.</a>
       </>
     ),
   },
