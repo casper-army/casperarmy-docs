@@ -81,7 +81,7 @@ const config = {
             items: [
               {
                 label: 'Discord',
-                href: 'https://discordapp.com/invite/casperarmy',
+                href: 'https://discord.gg/sZQVdRCyqx',
               },
               {
                 label: 'Telegram',
