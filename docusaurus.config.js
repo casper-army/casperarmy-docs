@@ -12,7 +12,7 @@ const config = {
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
-  favicon: 'img/favicon.ico',
+  favicon: 'img/casperarmy_favicon_logo_white.ico',
   organizationName: 'casperarmy', // Usually your GitHub org/user name.
   projectName: 'casperarmy-docs', // Usually your repo name.
 
