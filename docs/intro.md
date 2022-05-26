@@ -65,4 +65,5 @@ To summarise, the CasperArmy platform will do the following.
 
     Develop project ideas using our unique incubation system, providing guidance from start to finish
     Provide transparency to the Casper community, and give them a voice to influence decisions on projects
-    Every day, the team does its best to respond to the community’s requirements. Our mission is to promote transparency, honesty, and the Casper Network.
+    Every day, the team does its best to respond to the community’s requirements. Our mission is to promote
+    transparency, honesty, and the Casper Network.
