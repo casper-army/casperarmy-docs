@@ -25,7 +25,8 @@ With our experience and connections, we can assist creators with the following:
 Advisory</br>
 Business Development</br>
 Legal Guidance</br>
-Launching Marketing</br>
+Launching</br>
+Marketing</br>
 Partnerships</br>
 Smart Contracts</br>
 Token Creation</br>
