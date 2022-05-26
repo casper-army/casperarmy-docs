@@ -61,7 +61,7 @@ Log in to the user’s profile/accounts will be done via Casper Signer. In the u
     
 ## Summary
 
-To summarise, the CasperArmy platform will do the following.
+To summarise, the CasperArmy platform will do the following:
 
     Develop project ideas using our unique incubation system, providing guidance from start to finish
     Provide transparency to the Casper community, and give them a voice to influence decisions on projects
