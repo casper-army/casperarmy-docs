@@ -16,7 +16,7 @@ The Casperarmy.org platform will use the native token of the Casper Network — 
 
 ## Workflow
 
-![alt-text](../pic/casperarmy_workflow.jpg)
+![alt-text](pic/casperarmy_workflow.jpg)
 
 ## What does Casperarmy.org offer?
 
