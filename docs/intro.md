@@ -22,13 +22,13 @@ The Casperarmy.org platform will use the native token of the Casper Network — 
 
 With our experience and connections, we can assist creators with the following:
 
-Advisory
-Business Development
-Legal Guidance
-Launching Marketing
-Partnerships
-Smart Contracts
-Token Creation
+Advisory</br>
+Business Development</br>
+Legal Guidance</br>
+Launching Marketing</br>
+Partnerships</br>
+Smart Contracts</br>
+Token Creation</br>
 
 # Project Verification
 
